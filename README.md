@@ -2,7 +2,7 @@
 
 -  Gosto do Back-end 😎🔥💥❤️
 - Estudo atualmente as linguagens de programação Java (Proway) e Dart/Flutter (Entra21 - 2023) 💻
-- Possuo conhecimento em Redes de Computadores e Banco de Dados 👾
+- Conhecimentos em Redes de Computadores e Banco de Dados 👾
 - Inglês B2 🚀
 
 <div style="display: inline_block"><br>
