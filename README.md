@@ -1,8 +1,7 @@
 ## Opa bão 🍺 ????
 
 -  Gosto do Back-end 😎🔥💥❤️
-- Estudo atualmente a linguagem de programação Java (Proway)
-- Conhecimentos em Redes de Computadores e Banco de Dados 👾
+- Formado na linguagem de programação Java pela Proway
 - Inglês B2 🚀
 
 <div style="display: inline_block"><br>
