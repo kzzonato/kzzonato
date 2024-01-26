@@ -1,4 +1,6 @@
-## Opa bão 🍺 ????
+<div align="center">
+  <h1><strong> Opa bão 🍺 ????</strong></h1>  
+</div>
 
 - <strong>Gosto do Back-end 😎🔥</strong>
 - Cursando Bacharelado em <strong>Engenharia de Software</strong> (2024) 📚✏️
