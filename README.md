@@ -7,7 +7,7 @@
 - Formado na linguagem de programação <strong>Java</strong> pela Proway (Blumenau) 👨‍🎓
 - <strong>Aluno ONE (Oracle Next Education) T6 2024 </strong>
 - Inglês <strong>B2 🚀</strong>
-- <strong> Java | Spring-Boot | Angular (Loading ⌛...) | Node(Loading⌛...) </strong>   
+- <strong> Java | Spring-Boot | Angular (Loading ⌛...) | Node (Loading⌛...) </strong>   
 
 
 <div style="display: inline_block"><br>
