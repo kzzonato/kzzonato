@@ -2,12 +2,11 @@
   <h1><strong> Opa, bão 🍺 ????</strong></h1>  
 </div>
 
-- <strong>Gosto do Back-end 😎🔥</strong>
+- <strong> Back-end developer </strong>
 - Cursando Bacharelado em <strong>Engenharia de Software</strong> (2024) 📚✏️
 - Formado na linguagem de programação <strong>Java</strong> pela Proway (Blumenau) 👨‍🎓
-- <strong>Aluno ONE (Oracle Next Education) T6 2024 </strong>
-- Inglês <strong>B2 🚀</strong>
-- <strong> Java | Spring-Boot |  Javascript (Loading ⌛...)  | Angular (Loading ⌛...) | Node (Loading⌛...) </strong>   
+- Inglês <strong>B2 </strong>
+- <strong> Java | Spring-Boot | Angular (Loading ⌛...) </strong>   
 
 
 <div style="display: inline_block"><br>
