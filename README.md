@@ -3,7 +3,7 @@
 
 ---
 
-### 🛠 Technical Ecosystem
+### Technical Ecosystem
 
 - **Languages:**
   - **Go:** High-performance microservices, AWS Lambda, and Infrastructure tooling.
@@ -28,7 +28,7 @@
 
 ---
 
-### 🏗 Architecture & Design Patterns
+### Architecture & Design Patterns
 
 My engineering approach is centered on building resilient and scalable systems, applying: 
 
@@ -38,4 +38,4 @@ My engineering approach is centered on building resilient and scalable systems, 
 - **Asynchronous Messaging:** Decoupling services using fan-out patterns (SNS + SQS) and ensuring message durability and sequential processing with FIFO logic.
 
 ---
-📫 **Contact:** `jpcazzonato2013@gmail.com`
+**Contact:** `jpcazzonato2013@gmail.com`
